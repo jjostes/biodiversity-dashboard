@@ -10,7 +10,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The dashboard is deployed as a static webpage via GitHub, and can be accessed [here](https://jjostes.github.io/plotly-challenge/).
+The dashboard is deployed as a static webpage via GitHub, and can be accessed [here](https://jjostes.github.io/biodiversity-dashboard/).
 
 ![dash]
 
